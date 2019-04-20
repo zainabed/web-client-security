@@ -1,0 +1,7 @@
+src
+tsconfig.json
+tslint.json
+.nyc_output
+coverage
+node_modules
+docs

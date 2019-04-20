@@ -8,8 +8,15 @@
     "build": "tsc",
     "doc": "./node_modules/.bin/typedoc --out docs --mode modules src/main/js"
   },
-  "author": "Zainul Shaikh",
-  "license": "ISC",
+  "keywords": [
+    "security",
+    "typescript",
+    "authorization",
+    "authentication"
+  ],
+  "author": "Zainul Shaikh <zainabed@gmail.com> (http://www.zainabed.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/zainabed/web-client-security",
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.4.3",
@@ -21,5 +28,6 @@
     "ts-node": "^8.0.3",
     "typedoc": "^0.14.2",
     "typescript": "^3.3.3333"
-  }
+  },
+  "repository" : "https://github.com/zainabed/web-client-security"
 }
